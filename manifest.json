@@ -1,0 +1,8 @@
+{
+  "name": "My Collection",
+  "short_name": "Collection",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101116",
+  "theme_color": "#171923"
+}
